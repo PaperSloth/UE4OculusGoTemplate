@@ -9,10 +9,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "LiveLink",
-			"Enabled": true
-		},
-		{
 			"Name": "MagicLeapEmulator",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -71,10 +67,6 @@
 		},
 		{
 			"Name": "AvfMedia",
-			"Enabled": false
-		},
-		{
-			"Name": "TcpMessaging",
 			"Enabled": false
 		},
 		{
@@ -143,6 +135,49 @@
 		},
 		{
 			"Name": "SteamVR",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "MatineeToLevelSequence",
+			"Enabled": false
+		},
+		{
+			"Name": "MeshEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ProxyLODPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "WebMMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "Firebase",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "CustomMeshComponent",
+			"Enabled": false
+		},
+		{
+			"Name": "EditableMesh",
+			"Enabled": false
+		},
+		{
+			"Name": "LightPropagationVolume",
+			"Enabled": false
+		},
+		{
+			"Name": "VariantManagerContent",
 			"Enabled": false
 		}
 	],
