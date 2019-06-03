@@ -9,11 +9,10 @@ OculusGo Teloport Example
 
 4.21.2
 
-4.22.2(master)
+4.22.2(master, develop)
 
 # Demo
-![GoTemplate](https://user-images.githubusercontent.com/8968076/58804347-9d86bb80-864c-11e9-8023-c7d7e509cfc2.gif)
-
+![MediaDemo](https://user-images.githubusercontent.com/8968076/58808596-4507ec00-8655-11e9-88bc-5903c0f1c5ff.gif)
 
 # Error
 【UE4.21】
