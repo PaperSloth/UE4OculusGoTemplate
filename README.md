@@ -11,7 +11,7 @@ OculusGo Teloport Example
 
 4.22.2(master, develop)
 
-develop bracnchのみ下記のdemoのような動画再生機能をテストで入れています
+develop branchのみ下記のdemoのような動画再生機能をテストで入れています
 
 # Demo
 ![MediaDemo](https://user-images.githubusercontent.com/8968076/58808596-4507ec00-8655-11e9-88bc-5903c0f1c5ff.gif)
