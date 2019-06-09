@@ -1,6 +1,6 @@
 # UE4OculusGoTemplate
 OculusGo Teloport Example
-(Oculus Questでも動作するようです)
+(Oculus Questでも動作します)
 
 ## UE4Version
 4.19.2
