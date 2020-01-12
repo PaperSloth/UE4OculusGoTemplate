@@ -9,7 +9,9 @@ OculusGo Teloport Example
 
 4.21.2
 
-4.22.2(master, develop)
+4.22.2(develop)
+
+4.23.1(master)
 
 develop branchのみ動画再生機能をテストで入れています
 
