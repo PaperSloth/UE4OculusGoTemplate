@@ -13,7 +13,10 @@ OculusGo Teloport Example
 
 4.23.1
 
-4.24.1(master)
+4.24.1
+
+4.25.0(master)
+※SDK/NDKの設定が大きく変わりました。詳細は下部のError UE4.25をご覧ください
 
 develop branchのみ動画再生機能をテストで入れています
 
@@ -34,3 +37,10 @@ http://pafuhana1213.hatenablog.com/entry/2019/02/06/010250
 Accept SDK License押下時に
 Unable to read xxx/Android/package.xml
 と出た場合、4.21と同様にGitのUE4.22からpackage.xmlを取得してください
+
+【UE4.25】
+Android SDK および NDK の更新
+UE4.25からは従来のAndroidWorksからAndroid StudioでのSDK/NDKの設定となりました。
+詳しくは下記のドキュメントにありますが、設定が少し複雑です。
+https://docs.unrealengine.com/ja/Platforms/Mobile/Android/Setup/AndroidStudio/index.html
+
