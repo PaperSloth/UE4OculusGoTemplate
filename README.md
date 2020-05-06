@@ -16,7 +16,11 @@ OculusGo Teloport Example
 4.24.1
 
 4.25.0(master)
+
 ※SDK/NDKの設定が大きく変わりました。詳細は下部のError UE4.25をご覧ください
+
+また、4.25.0ではOculus Goのコントローラーのトリガーが上手く取得できず
+暫定対応としてTrack Pad押下での移動としています。
 
 develop branchのみ動画再生機能をテストで入れています
 
